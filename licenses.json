@@ -1,4 +1,14 @@
 {
-  "ADMIN-KEY-2026": {"hwid": "ALL", "expiry": "2099-12-31"},
-  "KHAN-20HR-KEY": {"hwid": "ALL", "expiry": "2026-09-26 18:00:00"}
+  "ZEESHAN-BOSS-2026": {
+    "hwid": "ALL",
+    "expiry": "2099-12-31"
+  },
+  "CLIENT-01-2026": {
+    "hwid": "HWID-PASTE-HERE-1",
+    "expiry": "2026-12-31"
+  },
+  "CLIENT-02-2026": {
+    "hwid": "HWID-PASTE-HERE-2",
+    "expiry": "2026-12-31"
+  }
 }
